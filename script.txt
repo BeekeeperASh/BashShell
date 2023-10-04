@@ -1,0 +1,5 @@
+cd Test
+ls
+cd Folder0
+pwd
+cat text.txt
